@@ -1,0 +1,2 @@
+We created a txt file using atom which is a nice thing to do.
+We did this by having it save by .txt in the file name
