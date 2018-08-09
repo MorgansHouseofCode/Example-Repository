@@ -6,7 +6,9 @@
 <<<<<<< HEAD
 #
 can we make a conflicting change?
-=======
 
 Ha Ha Gotcha 
+=======
+
+Ha Ha Gotcha
 >>>>>>> Temp1
